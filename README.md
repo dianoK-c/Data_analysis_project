@@ -59,7 +59,7 @@ Worked with synthesized API log datasets to analyze request patterns and extract
 
 ---
 
-## Key Skills Demonstrated 🚀
+## Key Skills Demonstrated 
 
 - Data Cleaning
 - Exploratory Data Analysis
