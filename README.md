@@ -1,4 +1,5 @@
-# Data Analysis Projects 📊
+# Data Analysis Projects 
+
 
 This repository contains beginner-friendly data analysis projects focused on extracting meaningful insights from real-world and synthesized datasets using Python.
 
@@ -6,7 +7,7 @@ This repository contains beginner-friendly data analysis projects focused on ext
 
 ## Projects Included
 
-### 1. Netflix Data Analysis 🎬
+### 1. Netflix Data Analysis 
 
 #### Overview
 Analyzed the Netflix Movies and TV Shows dataset to explore trends and patterns in streaming content.
@@ -27,7 +28,7 @@ Analyzed the Netflix Movies and TV Shows dataset to explore trends and patterns 
 
 ---
 
-### 2. API Log Data Analysis 🌐
+### 2. API Log Data Analysis 
 
 #### Overview
 Worked with synthesized API log datasets to analyze request patterns and extract useful insights.
@@ -47,7 +48,7 @@ Worked with synthesized API log datasets to analyze request patterns and extract
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 - Python
 - Pandas
@@ -70,7 +71,7 @@ Worked with synthesized API log datasets to analyze request patterns and extract
 
 ---
 
-## Future Improvements 📌
+## Future Improvements 
 
 - Add interactive dashboards
 - Work on larger real-world datasets
@@ -79,10 +80,7 @@ Worked with synthesized API log datasets to analyze request patterns and extract
 
 ---
 
-## Author 👨‍💻
 
-Created by DinoK  
-Aspiring Data Analyst / AI-ML Engineer
 
 
 
